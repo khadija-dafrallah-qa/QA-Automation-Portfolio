@@ -6,11 +6,17 @@
 
 ## 🌟 About This Portfolio
 This repository showcases my continuous learning journey, hands-on automation projects, and expertise in technical documentation (Test Plans, Test Cases, Bug Reports). As a Quality Analyst, my goal is to deliver bug-free software and optimize testing lifecycle.
+## 🚀 Featured Projects
+### [*Project 1: Manual Testing Case Study - Jumia*](./Projects/Jumia-Test-Cases.md)
+* *Objective:* Comprehensive test scenarios for user authentication and search filtering.
+* *Skills Applied:* Test Case Design, Bug Reporting, and Severity Assessment
 
 ---
 
 ## 🏆 Professional Certifications
-* * [*Fundamentals of Test Case Design*](./Coursera%20VAN6HMILBJ4A.pdf)
+* * [*Fundamentals of Test Case Design*](./Coursera%20VAN6HMILBJ4A.pdf) * [*Manual Testing Specialization*](./Coursera%20HVCLYMAXXSMV.pdf)
+* [*API Testing & Postman Basics*](./Coursera%20PH4KH7KNYH05.pdf)
+* [*Software Quality Assurance Foundation*](./Coursera%20YAG19VYH3Z99.pdf)
   * Issued by Board Infinity via Coursera (April 2026).
   * *Skills Learnt:* Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Test Scenario Identification, Test Case Documentation and Execution.
 
