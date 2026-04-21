@@ -10,7 +10,7 @@ This repository showcases my continuous learning journey, hands-on automation pr
 ---
 
 ## 🏆 Professional Certifications
-* *Fundamentals of Test Case Design*
+* * [*Fundamentals of Test Case Design*](./Coursera%20VAN6HMILBJ4A.pdf)
   * Issued by Board Infinity via Coursera (April 2026).
   * *Skills Learnt:* Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Test Scenario Identification, Test Case Documentation and Execution.
 
